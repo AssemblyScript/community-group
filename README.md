@@ -1,4 +1,5 @@
 # AssemblyScript Community Group
+> TODO: This repo to be moved to a collectively owned organization, e.g. https://github.com/AssemblyScript
 
 Majority of the projects in this community group are platforms/runtimes that allow other third-party developers to develop, deploy, and execute modules written in AssemblyScript. This includes both trustful and trustless platforms. This repository with its PRs and issues is used to coordinate these projects on common components and discussions.
 
