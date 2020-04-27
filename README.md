@@ -31,4 +31,4 @@ Please note that the Community Group is farily new, so the following list is not
 
 * AssemblyScript DevX -- discussing missing language features and they way to implement them. Also we discuss the various approaches to interfacing AssemblyScript modules with the platform, e.g. do we choose eDSL or meta-programming approach;
 * AssemblyScript libraries -- since we cannot import TypeScript libraries, common libraries like serialization, math, etc need to be reimplemented;
-* AssemblyScript compiler
+* AssemblyScript compiler hooks -- unlike Rust AssemblyScript does not have macros that would allow implementing basic code transformations that are important for eDSL or meta-programming. Many of these hooks are pretty common to most projects.
