@@ -1,0 +1,13 @@
+# 2020-04-14
+
+## Proposed Agenda
+* Review action items
+* Open Forum
+* Discuss next action items
+
+### Action items
+
+* Linting
+* hex/base64 libs
+* Compare the performance of passing complex types through serialier and by writting directly into memory.
+* Decide where to keep this repo, create calendar.
