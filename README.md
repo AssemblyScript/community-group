@@ -13,7 +13,7 @@ The Community Group provides all interested parties a place to discuss and colla
 * [Goals](#goals)
 * [Guidelines](#guidelines)
 * [Topics](#topics)
-
+* [Calendar](#calendar)
 # Goals
 
 * Enable everyone to share their ideas and projects
@@ -32,3 +32,6 @@ Please note that the Community Group is farily new, so the following list is not
 * AssemblyScript DevX -- discussing missing language features and they way to implement them. Also we discuss the various approaches to interfacing AssemblyScript modules with the platform, e.g. do we choose eDSL or meta-programming approach;
 * AssemblyScript libraries -- since we cannot import TypeScript libraries, common libraries like serialization, math, etc need to be reimplemented;
 * AssemblyScript compiler hooks -- unlike Rust AssemblyScript does not have macros that would allow implementing basic code transformations that are important for eDSL or meta-programming. Many of these hooks are pretty common to most projects.
+
+# Calendar
+A google calendar for meetings is found [here.](https://calendar.google.com/calendar/embed?src=wyndham.tech_6tvkgtqv1i345biaq7h86di1e0%40group.calendar.google.com&ctz=America%2FNew_York)
