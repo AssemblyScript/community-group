@@ -1,3 +1,17 @@
+# 2020-8-5
+
+## Proposed Agenda
+* Welcome grain team
+* Discuss [asbuild](https://github.com/willemneal/asbuild) and future of toolchains
+  - Move to AS org
+* Discuss [as-link](https://github.com/willemneal/as-link)
+* Update on closures
+  - Blocked by shopify's schedule
+* Binaryen Garbage collection
+  - refactorying type internals.
+  - In future refactor runtime internals from the compiler. Then create a binaryen pass which will add polyfill where needed.
+* Open up for audience
+ 
 # 2020-7-22
 
 ## Proposed Agenda
