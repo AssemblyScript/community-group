@@ -1,3 +1,23 @@
+# 2020-8-19
+
+## Proposed Agenda 
+* Introduce Grain team with AS team
+* Now have includeBytes see [PR](https://github.com/willemneal/visitor-as/pull/6)
+* Closures
+  * First class functions merge with old PR
+* GC is taking longer than expected
+  * adding types
+  * six preliminary PRs now
+* Waiting to follow up Bytecode Alliance as Mozilla's turn over.
+* Grain
+  * low hanging fruit with switch with binaryen
+  * Remove JS from runtime perhaps switch to AS
+  * improve windows support for binaryen
+* Regex looking into JS library that builds DFA
+* Shopify is looking into use https://github.com/wapc/as-msgpack for serialization.
+  * rolled out internal AS scripts for customers, so AS is now used in production.
+* Fastly looking into announcing AS soon.
+
 # 2020-8-5
 
 ## Proposed Agenda
