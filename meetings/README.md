@@ -1,3 +1,26 @@
+# 2020-9-2
+
+## Proposed Agenda
+* Introduce new members
+* Open floor to members
+* @ColinEberhardt has used AS since 2017, used it to write smart contracts on NEAR.  Recreated a meetup style sign up. Easiest path to writing WebAssembly.
+  * Most challenging is debugging. [Atari emulator](https://github.com/ColinEberhardt/atari2600-wasm)
+  * Date support is an obstacle.
+  * Source maps. Look into using DWARF custom section.
+* Bytecode Alliance still paused from Mozilla fallout but meetings are coming up.
+* Closures
+  * @torch2424 writing talks
+  * @DuncanUszkay1 hasn't had time, but had meeting with Mozilla people to hire them to continue open source work.  Looking into hiring OS person.
+* @decode Binaryen PR, Getting closer.
+  * Current discussions on GC requirements: https://github.com/WebAssembly/gc/pull/121
+* @battlelinegames's project connect WebGL to AssemblyScript
+* @ospencer No updates for grain
+* @jayphelps is giving a talk on using binaryen
+  * Wasm CG propsode stack suspension/rerun to implement async/await.
+* @MaxGraey been working on Binaryen and improving optimizations. `wasmtime` PR's to improve its performance.  Improve JS/AS interopability.
+  * {New Universal Texture Transcoders in AS](https://github.com/KhronosGroup/Universal-Texture-Transcoders)
+* Amin Yahyaabadi interested in using Wasm in BRowser for ML related tasks.
+
 # 2020-8-19
 
 ## Proposed Agenda 
