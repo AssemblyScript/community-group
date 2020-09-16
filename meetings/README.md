@@ -1,3 +1,29 @@
+# 2020-9-16
+
+## Proposed Agenda
+* @battlelinegames new Game! https://embed.com/wasm/asteroid/
+  * @torch2424 helped with sound
+  * Should there be a tutorial, @DuncanUszkay1 "could lead to interest and contributors"
+  * Function Overloading discussion, Do we break with TS?
+   * Need Langage server: https://github.com/saulecabrera/asls
+   * Shopify has a LS https://github.com/saulecabrera/asls by @saulecabrera
+   * Create our own docs generator
+* @torch2424
+  * Talk ready
+  * Bytecode alliance: TL;DR If we join we follow the rules.
+    * Slow moving but progress
+    * Still keeping it underwaps for PR purposes
+    * Guess is in October!
+    * Fastly feedback from devrel requests for a special main function to run before normal main.
+* @DuncanUszkay1
+  * PR on identifying closures to show what the pass would do
+  * Waiting on feedback from @dcode
+  * Tests need to be updated
+* @dcode Binaryen PR is slow
+  * Updated anyref PR now allows all subclasses
+* @jayphelps looking to hire someone to help write babel compiler plugins.
+  * Hiring later in the fall for other complier roles
+
 # 2020-9-2
 
 ## Proposed Agenda
