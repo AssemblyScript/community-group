@@ -3,6 +3,13 @@
 
 The Community Group provides all interested parties a place to discuss and collaborate with other community members.
 
+Discord
+=========
+[Please join us on discord!](https://discord.gg/assemblyscript) We hold our biweekly meetings there!
+
+# Calendar
+A google calendar for meetings is found [here.](https://calendar.google.com/calendar/embed?src=wyndham.tech_6tvkgtqv1i345biaq7h86di1e0%40group.calendar.google.com&ctz=America%2FNew_York).
+
 **Related**
 
 * [AssemblyScript Compiler](https://github.com/AssemblyScript/assemblyscript)
@@ -33,5 +40,4 @@ Please note that the Community Group is farily new, so the following list is not
 * AssemblyScript libraries -- since we cannot import TypeScript libraries, common libraries like serialization, math, etc need to be reimplemented;
 * AssemblyScript compiler hooks -- unlike Rust AssemblyScript does not have macros that would allow implementing basic code transformations that are important for eDSL or meta-programming. Many of these hooks are pretty common to most projects.
 
-# Calendar
-A google calendar for meetings is found [here.](https://calendar.google.com/calendar/embed?src=wyndham.tech_6tvkgtqv1i345biaq7h86di1e0%40group.calendar.google.com&ctz=America%2FNew_York)
+
