@@ -1,3 +1,18 @@
+# 2020-10-14
+## Proposed Agenda
+* TBD @torch2424
+  * Updates to asbind to edit memory directly
+  * BCA - internal stuff that is causing delays.
+  * Finished AS demos
+  * Hook up with Saul about closures and Lang server.
+  * Feb 2021 WasmSummit
+* @battlelinegames Adding examples to WebGL and fixing bugs along the way.
+* @willemneal added 'exportAs' decorator to rename to any name with visitor-as.
+* Grain updates: Got help from AS community.
+   * Hacktoberfest has helped with bugs.
+* @dcode switched to working on Runtime.  Updated allocator to separate runtime allocation and malloc/free. Tests are mostly passing.
+* @truskr will use @battlelinegames's [ASWebGLue](https://github.com/battlelinegames/ASWebGLue) to finish [glas](https://github.com/lume/glas).
+
 # 2020-9-16
 
 ## Proposed Agenda
