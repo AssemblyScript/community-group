@@ -1,3 +1,14 @@
+# 2020-10-28
+## Proposed Agenda
+* @willemneal found https://firstcontributions.github.io/.
+  * will add PR to add to this list: Use Org link
+* @torch2424 [Fastly relased AS runtime](https://twitter.com/torch2424/status/1321551389613461504), that they will support AS and publish AS runtime for serverless apps!
+  * Built fetch API in AS.  Not full interface, but allows fetch and response calls.
+  * Got WasmBoy to run on the edge!
+  * Planning is starting for 2021 WasmSummit
+* @battlelinegames trying to convert wave front files into AS files. Putting data into binary could be big, but web models tend to be smaller.
+
+
 # 2020-10-14
 ## Proposed Agenda
 * @torch2424
