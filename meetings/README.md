@@ -1,3 +1,37 @@
+# 2020-11-11
+## Proposed Agenda
+* @saulecabrera - Future of AS at Shopify.
+  * Looking to have open Beta of AS product
+  * Will extend AS to thousands of Devs
+  * Feedback:
+    * Current customers used to dynamic languages, e.g. ones with closures.
+    * Documentation for AS/Devs confused with TS.
+    * Lack of insightful errors.
+  * Where we are next steps:
+    * Three options:
+      * Maintain a fork of closures and add features
+      * See if it is feasible to add Compile flags for nightly features
+      * Try another language and return once AS has stablized
+         * @torch2424 Fastly supports multiple languages
+ * @torch2424 - 
+    * URL imlpmentation in AS, string parser to URL object
+    * Include bytes wanted: https://github.com/willemneal/visitor-as/blob/master/dist/examples/includeBytesTransform.js
+    * About to work on json
+    * fixed asbind issues
+* @willemneal and @jtenner
+   * Working on updating as-pect to use the new runtime: https://github.com/jtenner/as-pect/pull/316
+* @trusktr 3.js -> Wasm
+   * issues from closures haven't been clear.
+   * error messages are misaligned.
+   * Looking forward to use @battlelinegames' ASGlue
+   * New member to lume/glas suggested 3.js -> TS merging
+* battlelinegames - had success with generating AS files from wave front files
+* @dcode presented about stack-agnostic deferred Reference Counting (sad RC)
+  * Add `gcNext` pointer to object header
+  * Add `__defer`, `__commit`, `__commit_with_value`
+  * Each function has its own autorelease pool
+
+
 # 2020-10-28
 ## Proposed Agenda
 * @willemneal found https://firstcontributions.github.io/.
