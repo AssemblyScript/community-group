@@ -1,3 +1,20 @@
+# 2020-12-09
+## Proposed Agenda
+* @dcode [asc-native](https://github.com/dcodeIO/asc-native)
+  * Compiles and runs
+  * assemblyscript/src -> untouched 961Kb, optimized ~ 641Kb - just STD it uses. Compiler is a library. No cli interface or sources.
+  * GC: Binaryen is working on GC, new instructions [PR](https://github.com/WebAssembly/binaryen/pull/3433)
+  * [Discussions feature on GH repo to create threads](https://github.com/AssemblyScript/assemblyscript/discussions).
+    * Q&A section similar to StackOverflow.
+    * Also can do an AMA.
+    * FAQ 
+* @torch2424 nothing to report
+  * Bytecode Alliance stuff is moving forward!
+  * Fastly AS feedback has been positive
+* @jtenner [as-pect updated](https://github.com/jtenner/as-pect/releases/tag/v5.0.0)!
+* @willemneal asb updates 
+
+
 # 2020-11-11
 ## Proposed Agenda
 * @saulecabrera - Future of AS at Shopify.
