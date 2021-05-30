@@ -13,7 +13,7 @@ A google calendar for meetings is found [here.](https://calendar.google.com/cale
 **Related**
 
 * [AssemblyScript Compiler](https://github.com/AssemblyScript/assemblyscript)
-* [AssemblyScript Working Group](https://github.com/AssemblyScript/working-group)
+* [AssemblyScript Core](https://github.com/AssemblyScript/core)
 
 **Contents**
 
